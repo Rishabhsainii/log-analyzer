@@ -10,8 +10,6 @@ A lightweight Python-based log analyzer that scans Apache/Nginx access logs to d
 # 🚀 Features
 
 - Parses real-world access logs
-- Detects OWASP Top 10 threats: XSS, SQLi, brute-force
-- Regex-powered payload detection
 - Highlights suspicious IPs
 - Simple CLI usage with zero dependencies
 
